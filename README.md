@@ -47,8 +47,14 @@ Dashboard Contains:
 
 - Button to show Add Employee Dialog Form
 
+# Technology Stack
+- React 16.8+
+- Redux
+- NodeJS
+- Express
+- MongoDB
 
-Screenshots :
+# Screenshots 
 
 - Login Page 
 ![chrome_24avXMbf6z](https://user-images.githubusercontent.com/62376014/105839935-fe1df580-5ff3-11eb-9e0e-16c2571d3e91.png)
